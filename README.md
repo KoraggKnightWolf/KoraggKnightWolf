@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Arch Linux and how to apply custom Manjaro aspects (Manjaro's zsh, bootup theme, grub menu etc) to Arch
 - 🌱 I’m currently learning how to use Arch based systems better and use the ABS (Arch Build System) for custom PKGBUILD files, for 
-         personal use and/or to upload to the AUR.
+         personal use and/or to upload to the AUR (Arch User Repository).
 - 👯 I’m looking to collaborate on any PKGBUILD in the AUR that is maintained by me (currently just archlinux-hello as of Nov 23rd, 2022)
 - 🤔 I’m looking for help with improving Linux/Unix skills in general, and about any programming language I might need along the way.
 - 💬 Ask me about why I prefer IRC over other messaging/communication platforms.
